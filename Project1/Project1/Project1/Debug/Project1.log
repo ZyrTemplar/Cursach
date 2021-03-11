@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+c:\users\дима\desktop\курсовая копия\project1\project1\project1\myform.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\дима\desktop\курсовая копия\project1\project1\project1\myform.h(371): warning C4101: iter: неиспользованная локальная переменная
+c:\users\дима\desktop\курсовая копия\project1\project1\project1\myform.h(545): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+c:\users\дима\desktop\курсовая копия\project1\project1\project1\myform.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  MyForm2.cpp
+c:\users\дима\desktop\курсовая копия\project1\project1\project1\myform.h(371): warning C4101: iter: неиспользованная локальная переменная
+c:\users\дима\desktop\курсовая копия\project1\project1\project1\myform.h(545): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Дима\Desktop\Курсовая копия\Project1\Project1\Debug\Project1.exe
